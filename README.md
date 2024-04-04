@@ -23,6 +23,6 @@ Reference: Connect to Mysql Server Using VS Code
 
 
 
-[1] [How to connect to mySql Server](https://www.geeksforgeeks.org/how-to-connect-to-mysql-server-using-vs-code-and-fix-errors/) Retrieved from 
+[1] [How to connect to mySql Server](https://www.geeksforgeeks.org/how-to-connect-to-mysql-server-using-vs-code-and-fix-errors/) Retrieved from https://www.geeksforgeeks.org/how-to-connect-to-mysql-server-using-vs-code-and-fix-errors/
 
  
