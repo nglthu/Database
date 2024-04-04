@@ -46,7 +46,8 @@ public class mySQLConn {
 
         }
     }
-}```
+}
+```
 
 Reference: Connect to Mysql Server Using VS Code
 
