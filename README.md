@@ -49,6 +49,14 @@ public class mySQLConn {
 }
 ```
 
+test mysql
+```
+
+./mysql -u sqluser -p
+
+password: password
+```
+
 Reference: Connect to Mysql Server Using VS Code
 
 
