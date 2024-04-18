@@ -56,6 +56,8 @@ test mysql
 
 password: password
 ```
+# XAMPP
+http://localhost/phpmyadmin/index.php?route=/sql&db=bansach&table=sach&pos=0
 
 Reference: Connect to Mysql Server Using VS Code
 
