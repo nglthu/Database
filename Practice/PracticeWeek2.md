@@ -67,7 +67,7 @@ Use SQL commands for creating database and querying data
 # Reference (Tài liệu tham khảo)
 
 1. [Create PhP project with Remote Container](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/microsoft/vscode-remote-try-php)
-2. [Phenika University-Database]
+2. [Phenika University-Database](https://nglthu.github.io/Database/Slide/LTWebAd_02_PHP-MySQL_LTN.pdf)
 3. [Create table on Heroku p](https://dev.to/danielmabadeje/how-to-create-tables-on-heroku-postgresql-1n42)
 4. [How to set up a free postgresql database on Heroku](https://dev.to/prisma/how-to-setup-a-free-postgresql-database-on-heroku-1dc1)
 
