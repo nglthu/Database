@@ -5,4 +5,7 @@
 
 ### Slide Week 2 (Nội dung học tuần 2)
 
-[Link -Nội dung](https://nglthu.github.io/Database/Slide/LTWebAd_02_PHP_MySQL_LTN.pdf)
+[Link -Nội dung](https://nglthu.github.io/Database/Slide/LTWebAd_02_PHP-MySQL_LTN.pdf)
+
+### Practice (Thực hành)
+
