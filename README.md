@@ -56,8 +56,12 @@ test mysql
 
 password: password
 ```
+
 # XAMPP
 http://localhost/phpmyadmin/index.php?route=/sql&db=bansach&table=sach&pos=0
+
+# Postgres SQL
+https://devcenter.heroku.com/articles/heroku-postgresql
 
 Reference: Connect to Mysql Server Using VS Code
 
