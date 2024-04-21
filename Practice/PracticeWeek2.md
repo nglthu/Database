@@ -11,9 +11,27 @@
 
 ## Practice (Thực hành)
 
-Exercise ( Bài tập)
+### Exercise ( Bài tập)
 
 <img src="https://nglthu.github.io/Database/img/baitap.png">
+
+### Installation (Cài đặt)
+
+#### Local (Cục bộ)
+
+XAMPP
+
+#### Cloud 
+
+1. Virtual machine : Codespaces
+2. Database Cloud: PostGres Heroku
+
+### Deployment
+
+Cho mục đích WorkPortfolia
+Using Heroku.
+
+
 
 
 
