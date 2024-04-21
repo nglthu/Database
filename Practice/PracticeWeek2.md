@@ -12,7 +12,7 @@
 
 1. Test local using PhPMyAdmin (Sử dụng PhpMyAdmin, mySQL để thực hành các bài tập nhỏ)
 2. Test local using MySQL local (Có thể cài đặt SQL Server cục bộ trên máy tính để chạy câu lệnh SQL)
-3. Test Globally using DataClips (Heroku) (Sử dụng Heroku Postgres SQL, DataClips để thực hiện tạo CSDL và truy vấn tới data trên Cloud)
+3. Test Globally using DataClips (Heroku) (Sử dụng Heroku PostgreSQL, DataClips để thực hiện tạo CSDL và truy vấn tới data trên Cloud)
 
 ## Practice (Thực hành)
 
@@ -37,11 +37,10 @@ Run local PHP and MySQL Server with XAMPP (Chạy cục bộ Apache Server và M
 
 #### 2. Run PHP with virtual Machine Or Local (Chạy ứng dụng PhP với máy ảo hoặc cục bộ)
 
-#### 3. Database Cloud: PostGres Heroku
+#### 3. Database Cloud: PostgreSQL Heroku
 
-##### 3.1 Connect to SQL based database (e.g. PostGres SQL Heroku)
-
-Use Heroku PostGres for free database (support 70000 rows of data at free tier)
+##### 3.1 Connect to SQL based database (e.g. PostgreSQL Heroku)
+Use Heroku PostgreSQL for free database (support 70000 rows of data at free tier)
 
 ##### 3.2 Credentials
 
@@ -63,9 +62,14 @@ Use SQL commands for creating database and querying data
 
 1. Purpose: WorkPortfolia (Cho hồ sơ công việc đã làm)
 
-2. Using Heroku (Sử dụng Heroko)
+2. Using Heroku (Sử dụng Heroku)
 
 # Reference (Tài liệu tham khảo)
+
+1. [Create PhP project with Remote Container](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/microsoft/vscode-remote-try-php)
+2. [Phenika University-Database]
+3. [Create table on Heroku p](https://dev.to/danielmabadeje/how-to-create-tables-on-heroku-postgresql-1n42)
+4. [How to set up a free postgresql database on Heroku](https://dev.to/prisma/how-to-setup-a-free-postgresql-database-on-heroku-1dc1)
 
 
 
