@@ -12,8 +12,10 @@
 ## Practice (Thực hành)
 
 ### Exercise ( Bài tập)
+  
 
-<img src="https://nglthu.github.io/Database/img/baitap.png">
+<img src="https://nglthu.github.io/Database/img/Baitap.png">
+
 
 ### Installation (Cài đặt)
 
