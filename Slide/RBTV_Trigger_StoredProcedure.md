@@ -41,3 +41,4 @@ This enables the ; delimiter used in the procedure body to be passed through to 
 
 Example :
 
+![Delimiter](https://nglthu.github.io/Database/img/delimiter.png)
