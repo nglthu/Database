@@ -23,3 +23,21 @@ Without SIGNAL, it is necessary to resort to workarounds such as deliberately re
 
 ```
 https://dev.mysql.com/doc/refman/8.0/en/signal.html
+# delimiter // delimter ;
+
++ mysql client program to define a stored program containing semicolon characters, a problem arises. By default, mysql itself recognizes the semicolon as a statement delimiter, so you must redefine the delimiter temporarily to cause mysql to pass the entire stored program definition to the server.
+
++ To redefine the mysql delimiter, use the delimiter command.
+  ```
+delimiter //
+[code]
+
+delimiter ;
+
+  ```
+
+to enable the entire definition to be passed to the server as a single statement, and then restored to ; before invoking the procedure.
+This enables the ; delimiter used in the procedure body to be passed through to the server rather than being interpreted by mysql itself.
+
+Example :
+
