@@ -67,7 +67,8 @@ It provides control over the error's characteristics (error number, SQLSTATE val
 Without SIGNAL, it is necessary to resort to workarounds such as deliberately referring to a nonexistent table to cause a routine to return an error.
 
 ```
-https://dev.mysql.com/doc/refman/8.0/en/signal.html
+[Hướng dẫn sử dụng SIGNAL](https://dev.mysql.com/doc/refman/8.0/en/signal.html)
+
 ## delimiter // delimter ;
 
 + mysql client program to define a stored program containing semicolon characters, a problem arises. By default, mysql itself recognizes the semicolon as a statement delimiter, so you must redefine the delimiter temporarily to cause mysql to pass the entire stored program definition to the server.
