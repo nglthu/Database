@@ -1,6 +1,13 @@
 # Bài tập View - Trigger - Procedure
 
 # Bài tập View
+## Bài tập một: tạo VIEW từ hai bảng dưới đây hiển thị tất cả thông tin của hai bảng
+![View 2 Table ](https://nglthu.github.io/Database/img/view2T.png)
+
+## Bài tập hai: tạo VIEW từ bốn bảng dưới đây hiển thị thông tin order number, product description, quantity order, and image :
+
+![View 2 Table ](https://nglthu.github.io/Database/img/view4T.png)
+
 
 # Bài tập Trigger
 
