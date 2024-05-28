@@ -41,9 +41,11 @@ Hiển thị Stored Procedure quantity_in_stock(10, @stock_quantity)
 
 ```
 
-# Phụ lục
+# Phụ lục (Appendix)
+## Trigger trong bảng Table trên MySQL workbench
+![Chạy trigger trên bảng (Table) ](https://nglthu.github.io/Database/img/triggerEdit.png)
 
-## Stored Procedure window on MySQL workbench
+## Stored Procedure window trên MySQL workbench
 ![Cửa sổ chạy thủ tục ](https://nglthu.github.io/Database/img/storeProcedure.png)
 
 
