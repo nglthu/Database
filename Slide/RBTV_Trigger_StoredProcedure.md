@@ -1,4 +1,14 @@
-# ON UPDATE RESTRICT ON DELETE CASCADE
+# Bài tập View - Trigger - Procedure
+
+# Bài tập View
+
+# Bài tập Trigger
+
+# Bài tập Procedure
+
+# Phụ lục
+
+## ON UPDATE RESTRICT ON DELETE CASCADE
 
 ## Cascade
 ![Cascade](https://nglthu.github.io/Database/img/cascade.png)
@@ -12,7 +22,7 @@
 
 ![No Action](https://nglthu.github.io/Database/img/noAction.png)
 
-# Signal
+## Signal
 
 ```
 SIGNAL is the way to “return” an error.
@@ -23,7 +33,7 @@ Without SIGNAL, it is necessary to resort to workarounds such as deliberately re
 
 ```
 https://dev.mysql.com/doc/refman/8.0/en/signal.html
-# delimiter // delimter ;
+## delimiter // delimter ;
 
 + mysql client program to define a stored program containing semicolon characters, a problem arises. By default, mysql itself recognizes the semicolon as a statement delimiter, so you must redefine the delimiter temporarily to cause mysql to pass the entire stored program definition to the server.
 
