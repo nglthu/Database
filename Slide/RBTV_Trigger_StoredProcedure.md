@@ -1,6 +1,6 @@
 # Bài tập View - Trigger - Procedure
 
-# Bài tập View
+# 1. Bài tập View
 ## Bài tập một: tạo VIEW từ hai bảng dưới đây hiển thị tất cả thông tin của hai bảng
 Hình 1
 ![View 2 Table ](https://nglthu.github.io/Database/img/view2T.png)
@@ -11,9 +11,14 @@ Hình 2
 ![View 2 Table ](https://nglthu.github.io/Database/img/view4T.png)
 
 
-# Bài tập Trigger
+# 2. Bài tập Trigger
+## Bài tập Trigger 1
+![Trigger 1 ](https://nglthu.github.io/Database/img/trigger1.png)
 
-# Bài tập Procedure
+## Bài tập Trigger 2
+![Trigger 2 ](https://nglthu.github.io/Database/img/trigger2.png)
+
+# 3. Bài tập Procedure
 ## Bài tập Stored Procedure 1
 ```
 Tạo một SP, Có tên:	sp_customers(IN credit int)
