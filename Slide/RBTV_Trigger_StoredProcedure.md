@@ -2,11 +2,12 @@
 
 # 1. Bài tập View
 ## Bài tập một: tạo VIEW từ hai bảng dưới đây hiển thị tất cả thông tin của hai bảng
-Hình 1
+
 ![View 2 Table ](https://nglthu.github.io/Database/img/view2T.png)
+Hình 1: Bảng 1: Lược đồ quan hệ giữa hai quan hệ (hai Bảng)
 
 ## Bài tập hai: tạo VIEW từ bốn bảng dưới đây hiển thị thông tin order number, product description, quantity order, and image :
-Hình 2
+Hình 2: Bảng 2: Lược đồ quan hệ giữa bốn quan hệ ( bốn bảng)
 
 ![View 2 Table ](https://nglthu.github.io/Database/img/view4T.png)
 
