@@ -73,7 +73,8 @@ https://dev.mysql.com/doc/refman/8.0/en/signal.html
 + mysql client program to define a stored program containing semicolon characters, a problem arises. By default, mysql itself recognizes the semicolon as a statement delimiter, so you must redefine the delimiter temporarily to cause mysql to pass the entire stored program definition to the server.
 
 + To redefine the mysql delimiter, use the delimiter command.
-  ```
+  
+```
 delimiter //
 [code]
 
