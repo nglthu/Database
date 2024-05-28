@@ -96,3 +96,6 @@ This enables the ; delimiter used in the procedure body to be passed through to 
 Example :
 
 ![Delimiter](https://nglthu.github.io/Database/img/delimiter.png)
+
+## SQL Injection - Bài toán lỗ hổng MySQL
+[SQL Injection](https://nglthu.github.io/WebPhPDev/Exercises/Security##sinh-viên-trải-nghiệm)
