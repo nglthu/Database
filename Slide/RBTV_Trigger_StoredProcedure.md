@@ -12,6 +12,16 @@
 # Bài tập Trigger
 
 # Bài tập Procedure
+## Bài tập Stored Procedure 1
+```
+Tạo một SP, Có tên:	sp_customers(IN credit int)
+
+Hiển thị customerNumber, creditLimit lớn hơn credit đầu vào
+
+Hiển thị Stored Procedure sp_customer(200000)
+
+```
+
 
 # Phụ lục
 
