@@ -2,9 +2,11 @@
 
 # Bài tập View
 ## Bài tập một: tạo VIEW từ hai bảng dưới đây hiển thị tất cả thông tin của hai bảng
+Hình 1
 ![View 2 Table ](https://nglthu.github.io/Database/img/view2T.png)
 
 ## Bài tập hai: tạo VIEW từ bốn bảng dưới đây hiển thị thông tin order number, product description, quantity order, and image :
+Hình 2
 
 ![View 2 Table ](https://nglthu.github.io/Database/img/view4T.png)
 
@@ -21,7 +23,15 @@ Hiển thị customerNumber, creditLimit lớn hơn credit đầu vào
 Hiển thị Stored Procedure sp_customer(200000)
 
 ```
+## Bài tập Stored Procedure 2
+```
+Tạo một SP, Có tên:	quantity_in_stock(IN orderNumber int OUT stock_quality int)
 
+Cập nhật số quantityInStock khi có order hay quantityOrder như Bảng 2. 
+
+Hiển thị Stored Procedure quantity_in_stock(10, @stock_quantity)
+
+```
 
 # Phụ lục
 
