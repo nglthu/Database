@@ -43,6 +43,11 @@ Hiển thị Stored Procedure quantity_in_stock(10, @stock_quantity)
 
 # Phụ lục
 
+## Stored Procedure window on MySQL workbench
+![Cửa sổ chạy thủ tục ](https://nglthu.github.io/Database/img/storeProcedure.png)
+
+
+
 ## ON UPDATE RESTRICT ON DELETE CASCADE
 
 ## Cascade
