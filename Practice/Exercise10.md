@@ -10,3 +10,14 @@ Xây dựng lược đồ quan hệ thỏa mãn yêu cầu:
 +  Mõi nhân viên sẽ thuộc về một phòng ban cụ thể. 
 
 Sinh viên cần xác đinh thuộc tính khóa, thực hiện liên kết các quan hệ đảm bảo ràng buộc toàn vẹn giữa các quan hệ
+Thêm quan hệ (bảng) nếu cần. 
+
+2. Thêm 05 bản ghi vào mỗi quan hệ (Bảng) sau khi các bảng đã có các ràng buộc toàn vẹn. 
+   Ví dụ: mathietbi: tb01
+          manv:nv02
+          maphong: mp02
+   
+3. Thực hiện cập nhật tên nhân viên cho mã nhân viên là "nv02" thành Nguyễn Thị B.
+  Với yêu cầu khóa được kiểm tra hay không bị xóa.
+4. Thực hiện xóa tất cả thiết bị được kiểm tra bởi nhân viên có mã nhân viên là "nv02".
+5. Xây dựng stored Procedure để lấy ra thông tin của tất cả các thiết bị có liên quan đến phòng có mã phòng mp02. 
