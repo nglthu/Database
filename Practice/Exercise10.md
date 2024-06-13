@@ -1,6 +1,6 @@
 # Bài tập thực hành số 10 (Tiết 1 & 2)
 
-1. Cho thông tin như sau:
+## Câu 1. Cho thông tin như sau:
 
 ```
 Phòng { Mã phòng, tên phòng}
@@ -17,7 +17,8 @@ Sinh viên cần xác định thuộc tính Khóa, thực hiện liên kết cá
 
 Thêm quan hệ (bảng) nếu cần. 
 
-2. Thêm 05 bản ghi vào mỗi quan hệ (Bảng) sau khi các bảng đã có các ràng buộc toàn vẹn.
+## Câu 2 
+Thêm 05 bản ghi vào mỗi quan hệ (Bảng) sau khi các bảng đã có các ràng buộc toàn vẹn.
    
 ```
    Ví dụ: mathietbi: tb01
@@ -25,11 +26,15 @@ Thêm quan hệ (bảng) nếu cần.
           maphong: mp02
  ```
 
-3. Thực hiện cập nhật tên nhân viên cho mã nhân viên là "nv02" thành Nguyễn Thị B.
+## Câu 3 
+Thực hiện cập nhật tên nhân viên cho mã nhân viên là "nv02" thành Nguyễn Thị B.
   Với yêu cầu Khóa được kiểm tra hay không bị xóa.
-4. Thực hiện xóa tất cả thiết bị được kiểm tra bởi nhân viên có mã nhân viên là "nv02".
-5. Xây dựng stored Procedure để lấy ra thông tin của tất cả các thiết bị có liên quan đến phòng có mã phòng mp02.
-6. Chạy stored Procedure.
+## Câu 4 
+Thực hiện xóa tất cả thiết bị được kiểm tra bởi nhân viên có mã nhân viên là "nv02".
+## Câu 5 
+Xây dựng stored Procedure để lấy ra thông tin của tất cả các thiết bị có liên quan đến phòng có mã phòng mp02.
+## Câu 6:
+Chạy stored Procedure.
    
 # Sinh viên được gọi lên trình bày câu trả lời (Tiết 3)
 
