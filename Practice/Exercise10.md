@@ -1,4 +1,4 @@
-# Bài tập thực hành số 10
+# Bài tập thực hành số 10 (Tiết 1 & 2)
 
 1. Cho thông tin như sau:
 
@@ -30,3 +30,7 @@ Thêm quan hệ (bảng) nếu cần.
 4. Thực hiện xóa tất cả thiết bị được kiểm tra bởi nhân viên có mã nhân viên là "nv02".
 5. Xây dựng stored Procedure để lấy ra thông tin của tất cả các thiết bị có liên quan đến phòng có mã phòng mp02.
 6. Chạy stored Procedure.
+   
+# Sinh viên được gọi lên trình bày câu trả lời (Tiết 3)
+
+Giáo viên nhận xét, góp ý, và trợ giúp (nếu cần).
