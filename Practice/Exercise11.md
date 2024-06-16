@@ -65,7 +65,7 @@ Chạy stored Procedure.
 
 Đưa ra tất cả dữ liệu trong temp_table
    
-# TEAM [Sinh viên] TRÌNH BÀY GIẢI PHÁP PRODUCT OWNER (Tiết 3)
+# TEAM [Sinh viên] TRÌNH BÀY GIẢI PHÁP VÀ BÀN GIAO SẢN PHẨM CHO PRODUCT OWNER (Tiết 3)
 
 Product Owner nhận xét, ghi nhận, và thêm yêu cầu (nếu có).
 
