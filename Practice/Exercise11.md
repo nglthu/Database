@@ -16,7 +16,9 @@ Xây dựng lược đồ quan hệ (câu lệnh SQL) thỏa mãn yêu cầu:
 +  Mõi nhân viên sẽ thuộc về một phòng ban cụ thể.
   
 
-Sinh viên cần xác định thuộc tính Khóa, thực hiện liên kết các quan hệ đảm bảo ràng buộc toàn vẹn giữa các quan hệ.
+Sinh viên cần xác định thuộc tính Khóa, xác định constraint của các thuộc tính [nếu có].
+
+Thực hiện liên kết các quan hệ đảm bảo ràng buộc toàn vẹn giữa các quan hệ.
 
 Thêm quan hệ (bảng) nếu cần. 
 
