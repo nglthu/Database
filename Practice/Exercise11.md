@@ -3,10 +3,10 @@
 ## Câu 1. Cho thông tin như sau:
 
 ```
-Phòng { Mã phòng, tên phòng}
-Nhân viên { Mã nhân viên, Tên nhân viên}
-Thiết bị {Mã thiết bị, Tên thiết bị}
-Kiểm tra (Mã nhân viên, Mã thiết bị, Ngày kiểm tra, Tình trạng)
+Phòng { Mã phòng, tên phòng }
+Nhân viên { Mã nhân viên, Tên nhân viên }
+Thiết bị { Mã thiết bị, Tên thiết bị }
+Kiểm tra { Mã nhân viên, Mã thiết bị, Ngày kiểm tra, Tình trạng }
 ```
 
 Xây dựng lược đồ quan hệ (câu lệnh SQL) thỏa mãn yêu cầu [logic business]:
