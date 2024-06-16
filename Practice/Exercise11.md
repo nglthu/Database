@@ -1,4 +1,4 @@
-# Bài tập thực hành số 11 (Tiết 1 & 2)
+# PHÁT TRIỂN SẢN PHẨM [số 11] (Tiết 1 & 2)
 
 ## Câu 1. Cho thông tin như sau:
 
