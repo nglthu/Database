@@ -27,9 +27,10 @@ Thêm quan hệ (bảng) nếu cần.
 Thêm 05 bản ghi vào mỗi quan hệ (Bảng) sau khi các bảng đã có các ràng buộc toàn vẹn.
    
 ```
-   Ví dụ: mathietbi: tb01
-          manv:nv02
-          maphong: mp02
+   Ví dụ: mathietbi: "tb01"
+          manv:"nv02"
+          maphong: "mp02"
+          tinhtrang: "Not Pass"
  ```
 ## Câu 3 
 1. Tạo một Trigger cho phép xuất kho (new tuple) những thiết bị có tình trạng là "Pass".
