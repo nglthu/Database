@@ -9,7 +9,7 @@ Thiết bị { Mã thiết bị, Tên thiết bị }
 Kiểm tra { Mã nhân viên, Mã thiết bị, Ngày kiểm tra, Tình trạng }
 ```
 
-Xây dựng lược đồ quan hệ (câu lệnh SQL) thỏa mãn yêu cầu [logic business]:
+Xây dựng lược đồ quan hệ (câu lệnh SQL) thỏa mãn yêu cầu [logic business] doanh nghiệp như sau:
 
 +  Thông tin kiểm tra: sẽ gồm thông tin của nhân viên kiểm tra thiết bị tương ứng, ngày được kiểm tra và tình trạng cụ thể.
 +  Tình trạng chỉ có hai giá trị "Pass" và "Not Pass".
@@ -17,7 +17,10 @@ Xây dựng lược đồ quan hệ (câu lệnh SQL) thỏa mãn yêu cầu [lo
 +  Mõi nhân viên sẽ thuộc về một phòng ban cụ thể.
   
 
-Sinh viên cần xác định thuộc tính Khóa, xác định constraint của các thuộc tính [nếu có].
+<I> Yêu cầu team leader: </I>
+
+
+Developer <I> [Sinh viên] </I> cần xác định thuộc tính Khóa, xác định constraint của các thuộc tính [nếu có].
 
 Thực hiện liên kết các quan hệ đảm bảo ràng buộc toàn vẹn giữa các quan hệ.
 
@@ -46,7 +49,13 @@ Xây dựng stored Procedure để xuất ra [temp_table] tất cả các thiế
 Chạy stored Procedure.
 Đưa ra tất cả dữ liệu trong temp_table
    
-# Sinh viên được gọi lên trình bày câu trả lời (Tiết 3)
+# Team [Sinh viên] trình bày giải pháp (Tiết 3)
 
-Giáo viên nhận xét, góp ý, và trợ giúp (nếu cần).
+Product Owner nhận xét, ghi nhận, và thêm yêu cầu (nếu có).
+
+PO thỏa mãn, bàn giao sản phẩm.
+
+Team kết thúc phát triển sản phẩm. 
+
+HAPPY ENDING !
 
