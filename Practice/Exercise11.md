@@ -11,7 +11,7 @@ Kiểm tra (Mã nhân viên, Mã thiết bị, Ngày kiểm tra, Tình trạng)
 
 Xây dựng lược đồ quan hệ (câu lệnh SQL) thỏa mãn yêu cầu:
 
-+  Thông tin kiểm tra: sẽ gồm thông tin của nhân viên kiểm tra thiết bị tương ứng và ngày được kiểm tra và tình trạng cụ thể.
++  Thông tin kiểm tra: sẽ gồm thông tin của nhân viên kiểm tra thiết bị tương ứng, ngày được kiểm tra và tình trạng cụ thể.
 +  Tình trạng chỉ có hai giá trị "Pass" và "Not Pass".
 +  Mõi nhân viên sẽ thuộc về một phòng ban cụ thể.
   
