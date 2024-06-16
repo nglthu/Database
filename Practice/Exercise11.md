@@ -33,6 +33,8 @@ Thêm 05 bản ghi vào mỗi quan hệ (Bảng) sau khi các bảng đã có c�
  ```
 ## Câu 3 
 Tạo một Trigger cho phép xuất kho (new tuple) những thiết bị có tình trạng là "Pass".
+
+Hiển thị những dòng dữ liệu này.
 ## Câu 4 
 Tạo một Trigger trước khi xóa hoạt động kiểm tra xem thiết bị đã có trạng thái "Pass" chưa. Nếu chưa [có trạng thái "Not Pass"] thì đưa ra thông báo "Thiet bị chua dat kiem tra" và không cho phép xóa.
 ## Câu 5 
