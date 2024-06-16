@@ -32,11 +32,13 @@ Thêm 05 bản ghi vào mỗi quan hệ (Bảng) sau khi các bảng đã có c�
           maphong: mp02
  ```
 ## Câu 3 
-Tạo một Trigger cho phép xuất kho (new tuple) những thiết bị có tình trạng là "Pass".
+1. Tạo một Trigger cho phép xuất kho (new tuple) những thiết bị có tình trạng là "Pass".
 
-Hiển thị những dòng dữ liệu này.
+2. Hiển thị những dòng dữ liệu này. Kết quả ?
 ## Câu 4 
-Tạo một Trigger trước khi xóa hoạt động kiểm tra xem thiết bị đã có trạng thái "Pass" chưa. Nếu chưa [có trạng thái "Not Pass"] thì đưa ra thông báo "Thiet bị chua dat kiem tra" và không cho phép xóa.
+1. Tạo một Trigger trước khi xóa hoạt động kiểm tra xem thiết bị đã có trạng thái "Pass" chưa. Nếu chưa [có trạng thái "Not Pass"] thì đưa ra thông báo "Thiet bị chua dat kiem tra" và không cho phép xóa.
+
+2. Thực hiện xóa tất cả thông tin kiểm tra thuộc về mp02. Kết quả ?
 ## Câu 5 
 Xây dựng stored Procedure để xuất ra [temp_table] tất cả các thiết bị có liên quan đến phòng có mã phòng mp02 và có tình trạng "Not Pass" và nhân viên cụ thể kiểm tra thiết bị, cũng như ngày giờ liên quan.
 ## Câu 6:
