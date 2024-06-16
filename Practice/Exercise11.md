@@ -9,7 +9,7 @@ Thiết bị {Mã thiết bị, Tên thiết bị}
 Kiểm tra (Mã nhân viên, Mã thiết bị, Ngày kiểm tra, Tình trạng)
 ```
 
-Xây dựng lược đồ quan hệ (câu lệnh SQL) thỏa mãn yêu cầu:
+Xây dựng lược đồ quan hệ (câu lệnh SQL) thỏa mãn yêu cầu [logic business]:
 
 +  Thông tin kiểm tra: sẽ gồm thông tin của nhân viên kiểm tra thiết bị tương ứng, ngày được kiểm tra và tình trạng cụ thể.
 +  Tình trạng chỉ có hai giá trị "Pass" và "Not Pass".
