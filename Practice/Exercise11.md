@@ -13,6 +13,7 @@ Xây dựng lược đồ quan hệ (câu lệnh SQL) thỏa mãn yêu cầu:
 
 +  Thông tin kiểm tra: sẽ gồm thông tin của nhân viên kiểm tra thiết bị tương ứng, ngày được kiểm tra và tình trạng cụ thể.
 +  Tình trạng chỉ có hai giá trị "Pass" và "Not Pass".
++  Một thiết bị có thể được kiểm tra nhiều lần bới một hoặc nhiều nhân viên trong một hoặc nhiều thời điểm cho đến khi đạt trạng thái "Pass".
 +  Mõi nhân viên sẽ thuộc về một phòng ban cụ thể.
   
 
@@ -35,7 +36,7 @@ Tạo một Trigger cho phép xuất kho (new tuple) những thiết bị có t�
 ## Câu 4 
 Tạo một Trigger trước khi xóa hoạt động kiểm tra xem thiết bị đã có trạng thái "Pass" chưa. Nếu chưa [có trạng thái "Not Pass"] thì đưa ra thông báo "Thiet bị chua dat kiem tra" và không cho phép xóa.
 ## Câu 5 
-Xây dựng stored Procedure để xuất ra [temp_table] tất cả các thiết bị có liên quan đến phòng có mã phòng mp02 và có tình trạng "Not Pass" và nhân viên cụ thể kiểm tra thiết bị.
+Xây dựng stored Procedure để xuất ra [temp_table] tất cả các thiết bị có liên quan đến phòng có mã phòng mp02 và có tình trạng "Not Pass" và nhân viên cụ thể kiểm tra thiết bị, cũng như ngày giờ liên quan.
 ## Câu 6:
 Chạy stored Procedure.
 Đưa ra tất cả dữ liệu trong temp_table
