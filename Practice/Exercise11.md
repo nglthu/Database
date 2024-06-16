@@ -55,7 +55,7 @@ Hiển thị những dòng dữ liệu new tuple. Kết quả ?
 
 ### Test 2
 
-hực hiện xóa tất cả thông tin kiểm tra thuộc về mp02. Kết quả ?
+Thực hiện xóa tất cả thông tin kiểm tra thuộc về mp02. Kết quả ?
 
 ### Test 3
 
@@ -65,13 +65,15 @@ Chạy stored Procedure.
 
 Đưa ra tất cả dữ liệu trong temp_table
    
-# Team [Sinh viên] trình bày giải pháp (Tiết 3)
+# TEAM [Sinh viên] TRÌNH BÀY GIẢI PHÁP PRODUCT OWNER (Tiết 3)
 
 Product Owner nhận xét, ghi nhận, và thêm yêu cầu (nếu có).
 
 PO thỏa mãn, bàn giao sản phẩm.
 
+Biên bản ghi nhận.
+
 Team kết thúc phát triển sản phẩm. 
 
-HAPPY ENDING !
+$$$$ BONUS AND HAPPY ENDING !
 
